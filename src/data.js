@@ -11,6 +11,7 @@ export default [
         },
         location: "Online",
         openSpots: 0,
+        altText:"Katie Zaferes in team USA swimsuit and cap"
     },
     {
         id: 2,
@@ -24,6 +25,7 @@ export default [
         },
         location: "Online",
         openSpots: 27,
+        altText:"Woman in wedding gown"
     },
     {
         id: 3,
@@ -37,5 +39,6 @@ export default [
         },
         location: "Norway",
         openSpots: 3,
+        altText:"Mountain bike on hilltop"
     }
 ]

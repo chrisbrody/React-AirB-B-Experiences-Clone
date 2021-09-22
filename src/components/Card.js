@@ -12,9 +12,9 @@ export default function Card(props) {
     return (
         <div className="card" >
             {badgeText && <div className="card__badge">{badgeText}</div>}
-            <img src={`../images/${props.coverImg}`} className='card__image'/>
+            <img src={`../images/${props.coverImg}`} className='card__image' alt={props.altText}/>
             <div className="card__stats">
-                <img src="../images/star.png" className="card__star"/>
+                <img src="../images/star.png" className="card__star" alt="Red Star SVG"/>
                 <span>{props.stats.rating}</span>
                 <span className="gray">({props.stats.reviewCount}) • </span>
                 <span className="gray">{props.location}</span>
