@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/React-AirB-B-Experiences-Clone/static/js/main.c356d4ff.js",
+    "main.js": "/React-AirB-B-Experiences-Clone/static/js/main.af9fd69f.js",
     "static/js/787.e8223466.chunk.js": "/React-AirB-B-Experiences-Clone/static/js/787.e8223466.chunk.js",
     "static/media/photo-grid.svg": "/React-AirB-B-Experiences-Clone/static/media/photo-grid.8bb62e528c5e62d90289343cc26befb4.svg",
     "index.html": "/React-AirB-B-Experiences-Clone/index.html",
-    "main.c356d4ff.js.map": "/React-AirB-B-Experiences-Clone/static/js/main.c356d4ff.js.map",
+    "main.af9fd69f.js.map": "/React-AirB-B-Experiences-Clone/static/js/main.af9fd69f.js.map",
     "787.e8223466.chunk.js.map": "/React-AirB-B-Experiences-Clone/static/js/787.e8223466.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.c356d4ff.js"
+    "static/js/main.af9fd69f.js"
   ]
 }
